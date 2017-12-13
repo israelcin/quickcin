@@ -1,0 +1,5 @@
+{
+  "require": {
+    "steos/php-quickcheck": "dev-master"
+  }
+}

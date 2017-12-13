@@ -1,0 +1,21 @@
+[06-Oct-2017 13:10:28 UTC] PHP Fatal error:  Class 'Gen' not found in /home/ubuntu/workspace/php-quickcheck/brokensort.php on line 20
+[06-Oct-2017 13:10:28 UTC] PHP Stack trace:
+[06-Oct-2017 13:10:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/php-quickcheck/brokensort.php:0
+[06-Oct-2017 13:12:06 UTC] PHP Warning:  require(vendor/steos/quickcheck/src/QCheck/Generator.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php-quickcheck/brokensort.php on line 2
+[06-Oct-2017 13:12:06 UTC] PHP Stack trace:
+[06-Oct-2017 13:12:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/php-quickcheck/brokensort.php:0
+[06-Oct-2017 13:12:06 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/steos/quickcheck/src/QCheck/Generator.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php-quickcheck/brokensort.php on line 2
+[06-Oct-2017 13:12:06 UTC] PHP Stack trace:
+[06-Oct-2017 13:12:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/php-quickcheck/brokensort.php:0
+[06-Oct-2017 13:12:32 UTC] PHP Fatal error:  Class 'Gen' not found in /home/ubuntu/workspace/php-quickcheck/brokensort.php on line 22
+[06-Oct-2017 13:12:32 UTC] PHP Stack trace:
+[06-Oct-2017 13:12:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/php-quickcheck/brokensort.php:0
+[06-Oct-2017 13:13:16 UTC] PHP Warning:  require(vendor/steos/php-quickcheck/src/QCheck/Generatorf.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php-quickcheck/brokensort.php on line 2
+[06-Oct-2017 13:13:16 UTC] PHP Stack trace:
+[06-Oct-2017 13:13:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/php-quickcheck/brokensort.php:0
+[06-Oct-2017 13:13:16 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/steos/php-quickcheck/src/QCheck/Generatorf.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php-quickcheck/brokensort.php on line 2
+[06-Oct-2017 13:13:16 UTC] PHP Stack trace:
+[06-Oct-2017 13:13:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/php-quickcheck/brokensort.php:0
+[06-Oct-2017 13:13:22 UTC] PHP Fatal error:  Class 'Gen' not found in /home/ubuntu/workspace/php-quickcheck/brokensort.php on line 22
+[06-Oct-2017 13:13:22 UTC] PHP Stack trace:
+[06-Oct-2017 13:13:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/php-quickcheck/brokensort.php:0
